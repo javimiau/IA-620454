@@ -3,6 +3,8 @@
 Este repositorio contiene el desarrollo de las evaluaciones de la asignatura Inteligencia Artificial, carrera de Ingeniería Civil en Informática, Universidad del Bío-Bío. 
 
 Evaluación 1: El proyecto se enfoca en el pre-procesamiento y limpieza de datos para la plataforma de streaming "StreamFlow".
+Evaluación 2: Construcción y comparación de modelos de regresión para predecir ventas semanales en una cadena de tiendas retail.
+
 
 ## Integrantes
 * **Bastián Cid** - bastian.cid2201@alumnos.ubiobio.cl
