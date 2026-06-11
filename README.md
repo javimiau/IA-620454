@@ -6,6 +6,7 @@ Evaluación 1: El proyecto se enfoca en el pre-procesamiento y limpieza de datos
 
 Evaluación 2: Construcción y comparación de modelos de regresión para predecir ventas semanales en una cadena de tiendas retail.
 
+Evaluación 3: Desarrollo de un modelo de clasificación binaria optimizado mediante `GridSearchCV` para la detección de fraudes financieros en la Fintech "PaySecure", incluyendo un análisis de impacto de negocio según la variación de umbrales (thresholds).
 
 ## Integrantes
 * **Bastián Cid** - bastian.cid2201@alumnos.ubiobio.cl
