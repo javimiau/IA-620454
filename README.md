@@ -8,12 +8,14 @@ Evaluación 2: Construcción y comparación de modelos de regresión para predec
 
 Evaluación 3: Desarrollo de un modelo de clasificación binaria optimizado mediante `GridSearchCV` para la detección de fraudes financieros en la Fintech "PaySecure", incluyendo un análisis de impacto de negocio según la variación de umbrales (thresholds).
 
+Evaluación 4: Desarrollo de modelos de aprendizaje no supervisado utilizando K-Means para segmentar clientes desde múltiples perspectivas de negocio (Ciclo de Vida/Adopción Digital y Sensibilidad al Precio/Descuentos), optimizando el número de clústeres mediante el Método del Codo y Silhouette Score.
+
 ## Integrantes
 * **Bastián Cid** - bastian.cid2201@alumnos.ubiobio.cl
 * **Javiera Carrasco** - javiera.carrasco2201@alumnos.ubiobio.cl
 
 ## Estructura del Proyecto
-El repositorio sigue una arquitectura estándar para proyectos de Ciencia de Datos:
+El repositorio sigue una arquitectura estándar para proyectos de ciencia de datos:
 
 ```text
 ├── data/
